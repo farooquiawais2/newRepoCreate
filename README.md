@@ -3,15 +3,18 @@
 
 ## How To Create New Repository?
 
+
 ###
     Login to github.
     Go repository tab
     Click button on "New"
     Type Repo name eg: rn-starter
     Click button on "Create repository"
-    Copy "git remote add origin https://github.com/farooquiawais2/asd.git"
+    Copy "git remote add origin  https://github.com/farooquiawais2/rn-starter.git"
 ###
 
+
+## Follow this cmd for gitbash
 1) git init
 
 2) git add .
